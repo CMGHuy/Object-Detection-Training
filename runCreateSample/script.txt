@@ -1,0 +1,20 @@
+bash createSamples0.txt &&
+bash createSamples1.txt &&
+bash createSamples2.txt &&
+bash createSamples3.txt &&
+bash createSamples4.txt &&
+bash createSamples5.txt &&
+bash createSamples6.txt &&
+bash createSamples7.txt &&
+bash createSamples8.txt &&
+bash createSamples9.txt &&
+bash createSamples10.txt &&
+bash createSamples11.txt &&
+bash createSamples12.txt &&
+bash createSamples13.txt &&
+bash createSamples14.txt &&
+bash createSamples15.txt &&
+bash createSamples16.txt &&
+bash createSamples17.txt &&
+bash createSamples18.txt &&
+bash createSamples19.txt
