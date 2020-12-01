@@ -1,3 +1,7 @@
+The project uses Python associated with the OpenCV and YOLO library. Two main features are included:
+• Creation of new cascade files, which can be used to detect the wanted objects.
+• Use the cascade files to detect objects using Webcam or scanning directly on the available images.
+
 Reference: https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
 
 Steps:
